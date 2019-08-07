@@ -13,4 +13,7 @@ cluster.py is used to get the details on number of customers visited the mart.
 pythontofirebase.py has methods to access the firebase.
 
 
-Download training model at https://osdn.net/frs/g_redir.php?m=kent&f=dclib%2Fdlib%2Fv18.10%2Fshape_predictor_68_face_landmarks.dat.bz2
+Download training model at https://osdn.net/frs/g_redir.php?m=kent&f=dclib%2Fdlib%2Fv18.10%2Fshape_predictor_68_face_landmarks.dat.bz2 used to extract face descriptors.
+
+
+Create a folder with folder name face.
